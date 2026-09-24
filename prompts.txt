@@ -1,0 +1,8 @@
+# Формат:
+# positive
+# positive | negative
+# positive | negative | seed
+
+A cinematic portrait of a young woman in a blue dress, soft studio lighting, detailed face
+A fantasy forest at sunset, volumetric light, highly detailed | blurry, low quality | 123456
+Cyberpunk city street at night, rain, neon reflections | text, watermark | 987654

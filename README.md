@@ -2,6 +2,8 @@
 
 Полноценный Linux GUI-менеджер очереди для локального ComfyUI Desktop.
 
+![Скриншот](screen.png)
+
 ## Возможности
 - Qt6 / C++17 / CMake.
 - ComfyUI API: `/system_stats`, `/prompt`, `/history`, `/view`, `/queue`.
